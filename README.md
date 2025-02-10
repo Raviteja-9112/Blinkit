@@ -1,4 +1,5 @@
 # Blinkit
+I recently worked on an Excel-based data visualization project under the guidance of Data Tutorials YouTube channel, analyzing sales performance and outlet insights using Pivot Tables and Dashboards.
 ✅ Key Insights Covered:
  Total sales
  Item Count 
